@@ -3,6 +3,6 @@
     "description": "针对 coomers 和 degenerates",
     “manifestVersion”：1，
     "插件列表": [
-        “https://raw.githubusercontent.com/ptus815/cloudstream/refs/heads/master/plugin3x.json”
+        “https://raw.githubusercontent.com/ptus815/cloudstream/84e3e65f5d481ae44ffbda2ab8d085ef1c40e7e3/plugin3x.json”
     ]
 }
