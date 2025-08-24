@@ -1,0 +1,8 @@
+{
+    “name”：“NSFW 提供商”，
+    "description": "针对 coomers 和 degenerates",
+    “manifestVersion”：1，
+    "插件列表": [
+        “https://raw.githubusercontent.com/ptus815/cloudstream/refs/heads/master/plugin3x.json”
+    ]
+}
